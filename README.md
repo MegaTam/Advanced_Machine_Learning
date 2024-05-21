@@ -13,3 +13,8 @@ We constructed a Stacking model using KNN and Random Forest as the base learner 
 We also used Tokenizer and Text-CNN to construct another classifier.
 
 ## Results
+Logistic Regression(LR): Accuracy: 0.5986, Recall: 1.000.  
+K-Nearest Neighbors (KNN): Accuracy: 0.67245, Recall: 0.7556.  
+Random Forest: Accuracy: 0.7166, Recall: 0.8509.  
+Stacking: Accuracy: 0.7139, Recall: 1.000.  
+Text-CNN: Accuracy: 0.6605, Recall: 0.6915.
